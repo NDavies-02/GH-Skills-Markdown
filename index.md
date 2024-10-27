@@ -5,3 +5,7 @@
 ``` python
 print("Hello World!")
 ```
+## Tasks
+- [ ] Update everything
+- [ ] Start applying
+- [ ] Finish project
